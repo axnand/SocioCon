@@ -11,26 +11,23 @@ const Services = () => {
       <ServicesWrapper>
         <ServicesCard>
           <ServicesIcon src={Icon1} />
-          <ServicesH2>Donec quis</ServicesH2>
+          <ServicesH2>Photo Curation</ServicesH2>
           <ServicesP>
-            Fusce fringilla est ut velit finibus ultricies. Pellentesque id
-            eleifend erat.
+          Our  service sorts images by quality, composition, and facial expressions, ensuring every moment is captured beautifully
           </ServicesP>
         </ServicesCard>
         <ServicesCard>
           <ServicesIcon src={Icon2} />
-          <ServicesH2>Maecenas ac posuere</ServicesH2>
+          <ServicesH2>Album Creation</ServicesH2>
           <ServicesP>
-            Donec nec maximus sapien. Aenean efficitur urna sed felis varius, ut
-            convallis odio tempor. Sed volutpat nulla aliquam egestas cursus.
+          Our collaborative album creation service empowers users to curate and edit their own photo albums, fostering creativity and personalization
           </ServicesP>
         </ServicesCard>
         <ServicesCard>
           <ServicesIcon src={Icon3} />
-          <ServicesH2>Duis et lectus</ServicesH2>
+          <ServicesH2>Event Analytics</ServicesH2>
           <ServicesP>
-            Aenean in egestas lectus. Pellentesque habitant morbi tristique
-            senectus et netus et malesuada fames ac turpis egestas.s
+          Providing organizers with total user image requests, empowering informed decisions for future events
           </ServicesP>
         </ServicesCard>
       </ServicesWrapper>
