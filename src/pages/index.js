@@ -9,6 +9,7 @@ import Image2 from "../images/space.svg";
 import InfoSectionLight from "../components/infoSectionLight";
 import Services from "../components/services";
 import Footer from "../components/footer";
+import { isStyledComponent } from "styled-components";
 
 export const Home = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -51,3 +52,4 @@ export const Home = () => {
     </>
   );
 };
+
