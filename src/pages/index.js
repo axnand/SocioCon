@@ -25,27 +25,27 @@ export const Home = () => {
       <InfoSection
         image={Image1}
         id="about"
-        subtitle="Mauris tempor interdum"
-        title="Proin condimentum diam"
-        text="In luctus nibh nec metus placerat consectetur. Maecenas odio mi, ullamcorper at porta non, egestas vitae velit. Donec lacinia porta tristique. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis nec arcu nec diam posuere tincidunt. Nulla dignissim enim id nibh luctus, ullamcorper sagittis eros semper."
-        btnText="Start today"
+        subtitle="Subtle Moments Captured"
+        title="Interactive Event Albums"
+        text="Engage with your event like never before - browse, contribute, and cherish moments captured by professionals and fellow attendees on our intuitive platform."
+        btnText="Explore"
       />
       <InfoSectionLight
         image={Image2}
         id="discover"
-        subtitle="Morbi iaculis enim"
-        title="In hac habitasse"
-        text="Phasellus porta sagittis sapien. Nam quis odio eu libero tempus rutrum. Suspendisse nec eros eget ex cursus rhoncus. Proin at velit quis ante pretium porta. Quisque pulvinar, elit et tincidunt ultricies, mauris odio luctus risus, vitae auctor elit risus a tortor. Nunc pulvinar purus id est rutrum vulputate. Mauris venenatis lectus vel nisi semper scelerisque."
-        btnText="Explore"
+        subtitle=" Explore Every Moment"
+        title="Discover Memories"
+        text="uncover hidden gems and relive the joy of every laugh, smile, and embrace captured by our community of photographers and attendees."
+        btnText="Discover"
       />
       <Services />
       <InfoSectionLight
         image={Image1}
         id="#"
-        subtitle="Duis et lectus accumsan"
-        title="Quisque dui justo"
-        text="Cras et ligula eget neque ornare tempor et vitae est. Duis et lectus accumsan, mollis dui a, finibus metus. Quisque dui justo, ullamcorper eget luctus id, consectetur eget nunc. In quis arcu erat. Morbi consequat imperdiet lorem, porta porta erat hendrerit vel. Aliquam dignissim purus at dolor posuere euismod."
-        btnText="Read more"
+        subtitle="Explore Our Full Suite of Features"
+        title="Endless Possibilities Await"
+        text="Dive into a realm of creativity with our real-time photo filters, adding flair to every snapshot. Personalize your memories with bespoke event-themed frames, transforming photos into timeless keepsakes"
+        btnText="Soon"
       />
       <Footer />
     </>
