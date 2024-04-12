@@ -21,3 +21,118 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+arning: could not open directory 'Application Data/': Permission denied
+warning: could not open directory 'Cookies/': Permission denied
+warning: could not open directory 'Local Settings/': Permission denied
+warning: could not open directory 'My Documents/': Permission denied
+warning: could not open directory 'NetHood/': Permission denied
+warning: could not open directory 'PrintHood/': Permission denied
+warning: could not open directory 'Recent/': Permission denied
+warning: could not open directory 'SendTo/': Permission denied
+warning: could not open directory 'Start Menu/': Permission denied
+warning: could not open directory 'Templates/': Permission denied
+warning: could not open directory 'Application Data/': Permission denied
+warning: could not open directory 'Cookies/': Permission denied
+warning: could not open directory 'Local Settings/': Permission denied
+warning: could not open directory 'My Documents/': Permission denied
+warning: could not open directory 'NetHood/': Permission denied
+warning: could not open directory 'PrintHood/': Permission denied
+warning: could not open directory 'Recent/': Permission denied
+warning: could not open directory 'SendTo/': Permission denied
+warning: could not open directory 'Start Menu/': Permission denied
+warning: could not open directory 'Templates/': Permission denied
+On branch main
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+        modified:   SocioCon (modified content)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        ../../../.VirtualBox/
+        ../../../.android/
+        ../../../.aws/
+        ../../../.bash_history
+        ../../../.cache/
+        ../../../.config/
+        ../../../.gem/
+        ../../../.gitconfig
+        ../../../.jenkins/
+        ../../../.lesshst
+        ../../../.m2/
+        ../../../.minttyrc
+        ../../../.ssh/
+        ../../../.th-client/
+        ../../../.vagrant.d/
+        ../../../.viminfo
+        ../../../.vscode/
+        ../../../AppData/
+        ../../../Contacts/
+        ../../230919256277417.pdf
+        ../../AI AAKASH.pdf
+        ../../Anand/
+        ../../Anand_BPIT.pdf
+        ../../Audit class/
+        ../../AvastFreeAntivirus.exe
+        ../../Dhawal-Resume.pdf
+        ../../Excel.xlsx
+        ../../GitHub Desktop.lnk
+        ../../IKSppt.pptx
+        ../../InShot_20240102_055137750.webp
+        ../../Koii Node.lnk
+        ../../NIKITA - Chrome.lnk
+        ../../Nikita Haribhakti/
+        ../../Order Summary - Aldine.pdf
+        ../../PM1.jpg
+        ../E-com/
+        ../vihaan/
+        ../../SAR Booklet SOFT COPY(1).xlsx
+        ../../SR_bookreview_ANAND_AIandDS.pdf
+        ../../Simple.class
+        ../../Telegram.lnk
+        ../../Untitled presentation.pptx
+        ../../Visual Studio Code.lnk
+        ../../WhatsApp.lnk
+        ../../Word.docx
+        ../../Zero-to-One.pdf
+        ../../ZoomInstaller - Shortcut.lnk
+        ../../anand.c
+        ../../anand_resume.pdf
+        ../../desktop.ini
+        ../../html/
+        ../../internal.pdf
+        ../../jaypee.jpeg
+        ../../npm/
+        ../../remove bg/
+        ../../ss.jpg
+        ../../tally - Shortcut.lnk
+        ../../test.class
+        ../../test.java
+        ../../uhv book.pdf
+        ../../wordpress/
+        ../../../Documents/
+        ../../../Downloads/
+        ../../../Favorites/
+        ../../../IdeaProjects/
+        ../../../IntelGraphicsProfiles/
+        ../../../Links/
+        ../../../Music/
+        ../../../NTUSER.DAT
+        ../../../NTUSER.DAT{1c2b59c6-c5f5-11eb-bacb-000d3a96488e}.TM.blf
+        ../../../NTUSER.DAT{1c2b59c6-c5f5-11eb-bacb-000d3a96488e}.TMContainer00000000000000000001.regtrans-ms
+        ../../../NTUSER.DAT{1c2b59c6-c5f5-11eb-bacb-000d3a96488e}.TMContainer00000000000000000002.regtrans-ms
+        ../../../OneDrive/
+        ../../../Pictures/
+        ../../../Saved Games/
+        ../../../Searches/
+        ../../../Videos/
+        ../../../devops/
+        ../../../my-app/
+        ../../../my-app2/
+        ../../../ntuser.dat.LOG1
+        ../../../ntuser.dat.LOG2
+        ../../../ntuser.ini
+        ../../../react/
+        ../../../test.cpp
