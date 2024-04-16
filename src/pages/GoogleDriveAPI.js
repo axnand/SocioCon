@@ -16,7 +16,11 @@ const GoogleDriveAPI = ({ accessToken }) => {
         { headers }
       );
       
+      // Set the files in state
       setFiles(response.data.files);
+      
+      // Log the files to the console
+      console.log('Contents of the folder:', response.data.files);
     } catch (error) {
       console.error('Error listing folder contents:', error);
     }
