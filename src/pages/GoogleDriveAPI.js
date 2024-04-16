@@ -24,7 +24,7 @@ const GoogleDriveAPI = ({ accessToken }) => {
 
   useEffect(() => {
     // Specify the folder ID you want to list
-    const folderId = '<your-folder-id>';
+    const folderId = '17QWgrpDAiHphvCCjY5ZhKabuy3xIjLSu';
     listContentsOfFolder(folderId);
   }, [accessToken]);
 
